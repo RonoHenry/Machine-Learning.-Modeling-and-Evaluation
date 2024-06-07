@@ -1,1 +1,1 @@
-# Machine-Learning.-Modeling-and-Evaluation
+# ChurnShield: Protecting Customer Relationships Through Predictive Intelligence
