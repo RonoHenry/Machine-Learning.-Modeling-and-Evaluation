@@ -27,5 +27,6 @@ Based on the model results, actionable insights and recommendations are provided
 * **Results**
 ChurnShield delivers actionable insights and recommendations, enabling Horizon Trust Bank to take proactive measures to address customer churn and strengthen customer relationships. The chosen machine learning models provide high accuracy and reliability, making ChurnShield a valuable tool for the bank.
 
-* **Contributors**
+* **Contributor**
+  
   **Ronon Kipkirui Henry**
